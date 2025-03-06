@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Data and Model files (Optional, depending on whether you want to track them)
+data/
+model_save/
+
+# Environment files
+*.env
+venv/
+env/
+
+# OS generated files
+*.DS_Store

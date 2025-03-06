@@ -1,0 +1,29 @@
+project_root/
+  ├── backend/
+  │    └── training/
+  │        ├── data/
+  │        │   └── dataset.csv
+  │        ├── prepare_dataset.py
+  │        ├── train_model.py
+  │        ├── convert_to_tflite.py
+  │        ├── test.py
+  │        └── model_save/
+  │             ├── model.keras
+  │             └── model.tflite
+  │
+  ├── mobile_app/
+  │     ├── pubspec.yaml
+  │     ├── android/
+  │     ├── lib/
+  │     │   ├── main.dart
+  │     │   ├── screens/
+  │     │   │   └── home_screen.dart
+  │     │   └── services/
+  │     │       ├── feature_extraction.dart
+  │     │       ├── url_expander.dart
+  │     │       └── model_inference.dart
+  │     ├── assets/
+  │     │   └── model.tflite
+  │     └── README.md
+  │
+  └── Graduation_Project_Report_200104004067_AliAsim_Coskun.pdf
