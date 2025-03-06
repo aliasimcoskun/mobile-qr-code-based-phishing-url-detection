@@ -17,8 +17,8 @@ This project combines mobile technology with machine learning to create a QR cod
 *Screenshots showing the QR scanning interface and security analysis results*
 <p align="center">
   <img src="screenshots/mobile_app.png" alt="QR Scanning Screen" width="300">
-  <img src="screenshots/test_result1.png" alt="Safe URL Result" width="300">
-  <img src="screenshots/test_result2.png" alt="Malicious URL Result" width="300">
+  <img src="screenshots/test_result_1.png" alt="Safe URL Result" width="300">
+  <img src="screenshots/test_result_2.png" alt="Malicious URL Result" width="300">
 </p>
 
 <p align="center">
