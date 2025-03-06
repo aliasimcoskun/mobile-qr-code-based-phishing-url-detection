@@ -4,6 +4,12 @@
 
 This project combines mobile technology with machine learning to create a QR code scanner application that can detect potentially malicious URLs. When a user scans a QR code containing a URL, the app not only decodes the QR code but also analyzes the URL to determine if it might be a security threat.
 
+<p align="center">
+  <img src="screenshots/concept.png" alt="Project Concept Overview" width="600">
+  <br>
+  <em>General Concept of the Project</em>
+</p>
+
 ## 🚀 Features
 
 - **QR Code Scanning**: Quickly scan any QR code using your device's camera
